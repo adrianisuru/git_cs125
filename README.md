@@ -54,7 +54,7 @@ git clone https://github.com/mypartnersusername/their_repo_name.git
 ### General Git Workflow
 (For both partners)
 
-Every time you make a significant change you cant stage the changes with `git add my_changed_file.ext` (to add my_changed_file.ext) or `git add .` to add all files. Changes are committed with `git commit` (to write the commit message in the editor) or `git commit -m "my commit message"` (you probably want to use this one). Push to GitHub with `git push origin master` (<b>Always after you commit though</b>).
+Every time you make a significant change you can stage the changes with `git add my_changed_file.ext` (to add my_changed_file.ext) or `git add .` to add all files. Changes are committed with `git commit` (to write the commit message in the editor) or `git commit -m "my commit message"` (you probably want to use this one). Push to GitHub with `git push origin master` (<b>Always after you commit though</b>).
 
 Again, after you make changes:
 
